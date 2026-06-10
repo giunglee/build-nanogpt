@@ -1,3 +1,7 @@
 torch
 tiktoken
 transformers
+datasets
+tqdm
+numpy
+requests
